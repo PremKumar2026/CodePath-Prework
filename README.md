@@ -2,7 +2,7 @@
 
 Submitted by: Prem Kumar
 
-First Project - Prem Kumar is an app that... [TODO] 
+First Project - Prem Kumar is an app that shows screen with three labels and one button and changes colour when button is clicked.
 
 Time spent: 2 hours spent in total
 
@@ -28,20 +28,16 @@ GIF created with (https://imgur.com/)
 
 ## App Brainstorming (Step 4)
 Google Maps:
-Real-time Traffic Updates
-Street View
+Real-time Traffic Updates, Street View
 
 WhatsApp:
-End-to-End Encryption
-Web Version
+End-to-End Encryption, Web Version
 
 Spotify:
-Discover Weekly Playlist
-Cross-device Listening
+Discover Weekly Playlist, Cross-device Listening
 
 Slack:
-Channels
-Integrations
+Channels, Integrations
 
 ## Notes
 
