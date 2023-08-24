@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  First Project - Prem Kumar
-//
-//  Created by Sami Sajjad Cheema on 8/23/23.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
